@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Abed@0782744028",
+    "database": "crud_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Abed@0782744028",
+    "database": "crud_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Abed@0782744028",
+    "database": "crud_app",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  }
+}
